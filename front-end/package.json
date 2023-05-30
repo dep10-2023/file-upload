@@ -1,0 +1,9 @@
+{
+
+  "name": "front-end",
+  "version": "1.0.0",
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "jquery": "^3.7.0"
+  }
+}
